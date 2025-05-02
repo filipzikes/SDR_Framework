@@ -1,0 +1,2 @@
+seq/seq1.txt
+seq/seq2.txt
